@@ -19,4 +19,3 @@ Open `index.html` in any browser.
 - CSS
 - JavaScript
 
-## Day 1 of 90 Days of Code
